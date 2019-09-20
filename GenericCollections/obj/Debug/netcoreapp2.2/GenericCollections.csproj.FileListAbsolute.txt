@@ -1,0 +1,11 @@
+C:\Users\jbust\source\repos\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.deps.json
+C:\Users\jbust\source\repos\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.runtimeconfig.json
+C:\Users\jbust\source\repos\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.runtimeconfig.dev.json
+C:\Users\jbust\source\repos\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.dll
+C:\Users\jbust\source\repos\GenericCollections\bin\Debug\netcoreapp2.2\GenericCollections.pdb
+C:\Users\jbust\source\repos\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.csprojAssemblyReference.cache
+C:\Users\jbust\source\repos\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\jbust\source\repos\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\jbust\source\repos\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.AssemblyInfo.cs
+C:\Users\jbust\source\repos\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.dll
+C:\Users\jbust\source\repos\GenericCollections\obj\Debug\netcoreapp2.2\GenericCollections.pdb
